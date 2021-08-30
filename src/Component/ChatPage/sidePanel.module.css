@@ -1,0 +1,11 @@
+.element {
+  /* background-color: rgb(155, 150, 142);
+  color: whitesmoke; */
+  border-left: 4px solid red;
+}
+
+.general {
+  position: "relative";
+  padding: "6px";
+  background-color: pink;
+}
